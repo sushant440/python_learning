@@ -1,5 +1,5 @@
 # Let's practice multiple conditional statement to execute a program to decide if the user is eligible to
-# take citiozenship and the user can vote or not!
+# take citizenship and the user can vote or not!
 
 print("Welcome User! Lets check whether you can vote or not!")
 x = input("Input your age: ")
