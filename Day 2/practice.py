@@ -11,7 +11,7 @@ elif age == 16:
     print("You are just eligible to make citizenship")
 
 elif age < 18:
-    print("If are a citizenship holder if you have made citizenship but you cannot cast vote! ")
+    print("You are a citizenship holder if you have made citizenship but you cannot cast vote! ")
 
 else:
     print("You can vote!!!")
