@@ -17,5 +17,5 @@ else:
     print("You can vote!!!")
 
 
-# the type connversion can have been done in another way also
+# the type conversion can have been done in another way also
 #  age= int(input("Input your age: "))
