@@ -1,5 +1,5 @@
 # Let's practice multiple conditional statement to execute a program to decide if the user is eligible to
-# take citiozenship and the user can vote or not!
+# take citizenship and the user can vote or not!
 
 print("Welcome User! Lets check whether you can vote or not!")
 x = input("Input your age: ")
@@ -11,11 +11,11 @@ elif age == 16:
     print("You are just eligible to make citizenship")
 
 elif age < 18:
-    print("If are a citizenship holder if you have made citizenship but you cannot cast vote! ")
+    print("You are a citizenship holder if you have made citizenship but you cannot cast vote! ")
 
 else:
     print("You can vote!!!")
 
 
-# the type connversion can have been done in another way also
+# the type conversion can have been done in another way also
 #  age= int(input("Input your age: "))
